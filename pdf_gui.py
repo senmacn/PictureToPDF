@@ -1,5 +1,5 @@
 from os import listdir, path
-import sys, PIL, numpy, multiprocessing, matplotlib, PyQt5, PIL
+import sys
 import PIL.Image
 from reportlab.pdfgen import canvas
 from reportlab.lib.utils import ImageReader
